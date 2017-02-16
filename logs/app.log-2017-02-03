@@ -1,0 +1,30 @@
+[03 02 2017 04:42:08.459] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/Jojo
+[03 02 2017 04:46:07.962] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/Jojo
+[03 02 2017 04:50:20.294] [DEBUG] - Inside restaurant add post
+[03 02 2017 05:08:03.262] [DEBUG] - Inside get
+[03 02 2017 05:11:40.883] [DEBUG] - Inside restaurant update post
+[03 02 2017 05:11:43.636] [DEBUG] - Inside restaurant update post
+[03 02 2017 05:12:59.864] [DEBUG] - Inside restaurant delete post
+[03 02 2017 05:13:19.544] [DEBUG] - Inside get
+[03 02 2017 05:19:03.732] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/Jojo
+[03 02 2017 05:20:15.140] [DEBUG] - Inside restaurant delete post
+[03 02 2017 05:24:18.201] [DEBUG] - Inside restaurant add post
+[03 02 2017 05:24:55.794] [DEBUG] - Inside restaurant delete post
+[03 02 2017 05:25:26.272] [DEBUG] - Inside get
+[03 02 2017 05:27:40.720] [DEBUG] - Inside restaurant add post
+[03 02 2017 05:27:56.570] [DEBUG] - Inside restaurant add post
+[03 02 2017 05:28:11.011] [DEBUG] - Inside restaurant add post
+[03 02 2017 05:28:23.166] [DEBUG] - Inside get
+[03 02 2017 05:28:57.981] [DEBUG] - Inside restaurant delete post
+[03 02 2017 05:29:07.821] [DEBUG] - Inside get
+[03 02 2017 05:38:05.327] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/Jojo
+[03 02 2017 05:39:46.224] [DEBUG] - Mongoose is now disconnected..!
+[03 02 2017 05:41:17.748] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/Jojo
+[03 02 2017 06:52:08.534] [DEBUG] - Mongoose is now disconnected..!
+[03 02 2017 06:53:34.322] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/Jojo
+[03 02 2017 06:54:04.109] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/Jojo
+[03 02 2017 06:54:40.536] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/Jojo
+[03 02 2017 09:18:49.981] [DEBUG] - Mongoose is now disconnected..!
+[03 02 2017 09:19:06.714] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/Jojo
+[03 02 2017 09:29:20.278] [DEBUG] - Mongoose is now disconnected..!
+[03 02 2017 09:29:34.465] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/Jojo

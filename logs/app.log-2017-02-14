@@ -1,0 +1,86 @@
+[14 02 2017 04:08:31.887] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/Jojo
+[14 02 2017 04:09:49.069] [DEBUG] - Inside restaurant add post
+[14 02 2017 04:09:58.356] [DEBUG] - Inside restaurant add post
+[14 02 2017 04:10:00.698] [DEBUG] - Inside restaurant add post
+[14 02 2017 04:10:07.154] [DEBUG] - Inside get
+[14 02 2017 04:10:16.871] [DEBUG] - Inside restaurant update post
+[14 02 2017 04:10:17.119] [DEBUG] - Inside restaurant update post
+[14 02 2017 04:10:17.361] [DEBUG] - Inside restaurant update post
+[14 02 2017 04:10:17.477] [DEBUG] - Inside restaurant update post
+[14 02 2017 04:10:17.585] [DEBUG] - Inside restaurant update post
+[14 02 2017 04:10:17.788] [DEBUG] - Inside restaurant update post
+[14 02 2017 04:10:18.761] [DEBUG] - Inside restaurant update post
+[14 02 2017 04:10:18.940] [DEBUG] - Inside restaurant update post
+[14 02 2017 04:10:19.060] [DEBUG] - Inside restaurant update post
+[14 02 2017 04:10:19.396] [DEBUG] - Inside restaurant update post
+[14 02 2017 04:10:19.773] [DEBUG] - Inside restaurant update post
+[14 02 2017 04:10:19.909] [DEBUG] - Inside restaurant update post
+[14 02 2017 04:10:25.480] [DEBUG] - Inside restaurant delete post
+[14 02 2017 04:10:27.967] [DEBUG] - Inside restaurant delete post
+[14 02 2017 04:10:30.346] [DEBUG] - Inside restaurant delete post
+[14 02 2017 04:10:33.270] [DEBUG] - Inside restaurant delete post
+[14 02 2017 04:11:52.946] [DEBUG] - Inside get
+[14 02 2017 04:12:09.022] [DEBUG] - Inside restaurant add post
+[14 02 2017 04:12:11.290] [DEBUG] - Inside restaurant add post
+[14 02 2017 04:12:14.210] [DEBUG] - Inside restaurant add post
+[14 02 2017 04:18:28.161] [DEBUG] - Inside get
+[14 02 2017 04:18:40.245] [DEBUG] - Inside restaurant update post
+[14 02 2017 04:18:40.524] [DEBUG] - Inside restaurant update post
+[14 02 2017 04:18:40.650] [DEBUG] - Inside restaurant update post
+[14 02 2017 04:18:40.717] [DEBUG] - Inside restaurant update post
+[14 02 2017 04:19:01.821] [DEBUG] - Inside restaurant add post
+[14 02 2017 04:19:59.573] [DEBUG] - Inside get
+[14 02 2017 04:31:52.887] [DEBUG] - Mongoose is now disconnected..!
+[14 02 2017 04:32:10.934] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/Jojo
+[14 02 2017 04:51:07.108] [DEBUG] - Mongoose is now disconnected..!
+[14 02 2017 04:51:23.496] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/Jojo
+[14 02 2017 05:27:13.623] [DEBUG] - Inside get
+[14 02 2017 05:27:54.261] [DEBUG] - Inside get
+[14 02 2017 05:27:59.376] [DEBUG] - Inside restaurant delete post
+[14 02 2017 05:28:02.566] [DEBUG] - Inside restaurant update post
+[14 02 2017 05:28:03.071] [DEBUG] - Inside restaurant update post
+[14 02 2017 05:28:03.094] [DEBUG] - Inside restaurant update post
+[14 02 2017 05:28:03.100] [DEBUG] - Inside restaurant update post
+[14 02 2017 05:28:03.451] [DEBUG] - Inside restaurant update post
+[14 02 2017 05:28:03.455] [DEBUG] - Inside restaurant update post
+[14 02 2017 05:28:03.463] [DEBUG] - Inside restaurant update post
+[14 02 2017 05:28:03.480] [DEBUG] - Inside restaurant update post
+[14 02 2017 05:28:03.491] [DEBUG] - Inside restaurant update post
+[14 02 2017 05:28:03.793] [DEBUG] - Inside restaurant update post
+[14 02 2017 05:28:03.798] [DEBUG] - Inside restaurant update post
+[14 02 2017 05:28:03.815] [DEBUG] - Inside restaurant update post
+[14 02 2017 05:28:04.845] [DEBUG] - Inside restaurant update post
+[14 02 2017 05:28:22.460] [DEBUG] - Inside get
+[14 02 2017 05:28:32.809] [DEBUG] - Inside get
+[14 02 2017 05:29:15.428] [DEBUG] - Inside get
+[14 02 2017 05:31:33.189] [DEBUG] - Inside get
+[14 02 2017 05:32:11.484] [DEBUG] - Inside restaurant update post
+[14 02 2017 05:32:11.682] [DEBUG] - Inside restaurant update post
+[14 02 2017 05:32:11.769] [DEBUG] - Inside restaurant update post
+[14 02 2017 05:32:11.892] [DEBUG] - Inside restaurant update post
+[14 02 2017 05:32:11.895] [DEBUG] - Inside restaurant update post
+[14 02 2017 05:32:12.035] [DEBUG] - Inside restaurant update post
+[14 02 2017 05:32:12.162] [DEBUG] - Inside restaurant update post
+[14 02 2017 05:32:12.518] [DEBUG] - Inside restaurant update post
+[14 02 2017 05:32:12.587] [DEBUG] - Inside restaurant update post
+[14 02 2017 05:32:12.796] [DEBUG] - Inside restaurant update post
+[14 02 2017 05:32:12.860] [DEBUG] - Inside restaurant update post
+[14 02 2017 05:32:12.923] [DEBUG] - Inside restaurant update post
+[14 02 2017 05:32:13.078] [DEBUG] - Inside restaurant update post
+[14 02 2017 05:32:13.139] [DEBUG] - Inside restaurant update post
+[14 02 2017 05:32:13.441] [DEBUG] - Inside restaurant update post
+[14 02 2017 05:32:13.507] [DEBUG] - Inside restaurant update post
+[14 02 2017 05:32:13.559] [DEBUG] - Inside restaurant update post
+[14 02 2017 05:32:23.164] [DEBUG] - Inside restaurant update post
+[14 02 2017 05:32:23.622] [DEBUG] - Inside restaurant update post
+[14 02 2017 05:32:23.702] [DEBUG] - Inside restaurant update post
+[14 02 2017 05:32:23.776] [DEBUG] - Inside restaurant update post
+[14 02 2017 05:32:31.198] [DEBUG] - Inside restaurant update post
+[14 02 2017 05:32:47.739] [DEBUG] - Inside restaurant update post
+[14 02 2017 05:32:47.799] [DEBUG] - Inside restaurant update post
+[14 02 2017 05:32:47.912] [DEBUG] - Inside restaurant update post
+[14 02 2017 05:32:47.967] [DEBUG] - Inside restaurant update post
+[14 02 2017 05:32:48.057] [DEBUG] - Inside restaurant update post
+[14 02 2017 05:32:48.090] [DEBUG] - Inside restaurant update post
+[14 02 2017 05:32:48.158] [DEBUG] - Inside restaurant update post
+[14 02 2017 05:33:52.338] [DEBUG] - Mongoose is now disconnected..!

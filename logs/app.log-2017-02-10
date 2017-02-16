@@ -1,0 +1,179 @@
+[10 02 2017 06:31:44.656] [DEBUG] - Inside restaurant add post
+[10 02 2017 06:33:51.935] [DEBUG] - Inside restaurant add post
+[10 02 2017 06:34:23.871] [DEBUG] - Inside restaurant add post
+[10 02 2017 06:41:01.064] [DEBUG] - Mongoose is now disconnected..!
+[10 02 2017 06:41:19.155] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/Jojo
+[10 02 2017 06:43:26.152] [DEBUG] - Inside restaurant add post
+[10 02 2017 06:52:20.550] [DEBUG] - Inside get
+[10 02 2017 06:55:10.405] [DEBUG] - Inside get
+[10 02 2017 06:57:39.155] [DEBUG] - Inside get
+[10 02 2017 06:57:53.103] [DEBUG] - Mongoose is now disconnected..!
+[10 02 2017 06:59:09.062] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/Jojo
+[10 02 2017 06:59:15.154] [DEBUG] - Inside get
+[10 02 2017 07:00:13.257] [DEBUG] - Inside restaurant add post
+[10 02 2017 07:00:23.055] [DEBUG] - Inside restaurant add post
+[10 02 2017 07:00:35.086] [DEBUG] - Inside get
+[10 02 2017 07:00:55.044] [DEBUG] - Inside restaurant add post
+[10 02 2017 07:01:01.899] [DEBUG] - Inside get
+[10 02 2017 07:40:19.502] [DEBUG] - Inside get
+[10 02 2017 07:41:47.290] [DEBUG] - Inside get
+[10 02 2017 07:44:03.926] [DEBUG] - Inside get
+[10 02 2017 07:44:58.135] [DEBUG] - Inside restaurant add post
+[10 02 2017 07:45:05.102] [DEBUG] - Inside get
+[10 02 2017 08:46:05.447] [DEBUG] - Inside restaurant add post
+[10 02 2017 08:46:23.219] [DEBUG] - Inside get
+[10 02 2017 08:49:43.233] [DEBUG] - Inside get
+[10 02 2017 08:50:11.744] [DEBUG] - Inside restaurant add post
+[10 02 2017 08:51:29.588] [DEBUG] - Inside restaurant add post
+[10 02 2017 08:52:44.415] [DEBUG] - Inside get
+[10 02 2017 08:54:42.819] [DEBUG] - Inside restaurant add post
+[10 02 2017 08:57:15.983] [DEBUG] - Inside get
+[10 02 2017 09:03:50.091] [DEBUG] - Inside get
+[10 02 2017 09:05:50.928] [DEBUG] - Inside restaurant add post
+[10 02 2017 09:05:54.874] [DEBUG] - Inside get
+[10 02 2017 09:29:16.986] [DEBUG] - Inside restaurant add post
+[10 02 2017 09:31:18.605] [DEBUG] - Inside get
+[10 02 2017 09:32:48.065] [DEBUG] - Inside get
+[10 02 2017 09:32:53.700] [DEBUG] - Inside restaurant delete post
+[10 02 2017 09:32:59.998] [DEBUG] - Inside restaurant delete post
+[10 02 2017 09:33:00.399] [DEBUG] - Inside restaurant delete post
+[10 02 2017 09:33:00.713] [DEBUG] - Inside restaurant delete post
+[10 02 2017 09:33:00.920] [DEBUG] - Inside restaurant delete post
+[10 02 2017 09:33:01.120] [DEBUG] - Inside restaurant delete post
+[10 02 2017 09:34:12.241] [DEBUG] - Inside restaurant delete post
+[10 02 2017 09:34:14.844] [DEBUG] - Inside restaurant delete post
+[10 02 2017 09:34:15.819] [DEBUG] - Inside restaurant delete post
+[10 02 2017 09:34:16.084] [DEBUG] - Inside restaurant delete post
+[10 02 2017 09:34:16.295] [DEBUG] - Inside restaurant delete post
+[10 02 2017 09:34:16.594] [DEBUG] - Inside restaurant delete post
+[10 02 2017 09:34:17.673] [DEBUG] - Inside restaurant delete post
+[10 02 2017 09:34:17.884] [DEBUG] - Inside restaurant delete post
+[10 02 2017 09:34:18.078] [DEBUG] - Inside restaurant delete post
+[10 02 2017 09:34:18.282] [DEBUG] - Inside restaurant delete post
+[10 02 2017 09:35:14.094] [DEBUG] - Inside get
+[10 02 2017 09:36:15.807] [DEBUG] - Inside restaurant add post
+[10 02 2017 09:36:22.179] [DEBUG] - Inside get
+[10 02 2017 09:36:27.182] [DEBUG] - Inside restaurant delete post
+[10 02 2017 09:36:31.814] [DEBUG] - Inside get
+[10 02 2017 09:37:49.670] [DEBUG] - Inside restaurant add post
+[10 02 2017 09:37:51.752] [DEBUG] - Inside restaurant add post
+[10 02 2017 09:37:56.051] [DEBUG] - Inside restaurant add post
+[10 02 2017 09:38:06.123] [DEBUG] - Inside restaurant add post
+[10 02 2017 09:38:52.835] [DEBUG] - Inside get
+[10 02 2017 09:39:16.284] [DEBUG] - Inside restaurant delete post
+[10 02 2017 09:39:20.985] [DEBUG] - Inside get
+[10 02 2017 10:14:09.280] [DEBUG] - Inside get
+[10 02 2017 10:20:12.342] [DEBUG] - Inside restaurant add post
+[10 02 2017 10:20:31.966] [DEBUG] - Inside get
+[10 02 2017 10:52:10.120] [DEBUG] - Inside get
+[10 02 2017 10:52:50.468] [DEBUG] - Inside get
+[10 02 2017 10:57:38.635] [DEBUG] - Inside restaurant add post
+[10 02 2017 11:00:22.723] [DEBUG] - Inside get
+[10 02 2017 11:01:05.285] [DEBUG] - Inside get
+[10 02 2017 11:01:09.268] [DEBUG] - Inside restaurant delete post
+[10 02 2017 11:01:27.700] [DEBUG] - Inside get
+[10 02 2017 11:04:30.717] [DEBUG] - Inside get
+[10 02 2017 11:04:48.986] [DEBUG] - Inside restaurant add post
+[10 02 2017 11:04:52.352] [DEBUG] - Inside restaurant add post
+[10 02 2017 11:04:58.645] [DEBUG] - Inside get
+[10 02 2017 11:05:02.693] [DEBUG] - Inside restaurant delete post
+[10 02 2017 11:05:16.944] [DEBUG] - Inside get
+[10 02 2017 11:06:19.287] [DEBUG] - Inside restaurant add post
+[10 02 2017 11:06:21.865] [DEBUG] - Inside restaurant add post
+[10 02 2017 11:06:29.115] [DEBUG] - Inside get
+[10 02 2017 11:06:32.911] [DEBUG] - Inside restaurant delete post
+[10 02 2017 11:46:23.082] [DEBUG] - Inside get
+[10 02 2017 11:46:54.538] [DEBUG] - Inside restaurant add post
+[10 02 2017 11:46:55.652] [DEBUG] - Inside restaurant add post
+[10 02 2017 11:46:57.264] [DEBUG] - Inside restaurant add post
+[10 02 2017 11:47:04.777] [DEBUG] - Inside get
+[10 02 2017 11:47:15.098] [DEBUG] - Inside get
+[10 02 2017 11:51:02.507] [DEBUG] - Inside restaurant delete post
+[10 02 2017 11:51:06.973] [DEBUG] - Inside get
+[10 02 2017 11:51:22.141] [DEBUG] - Inside restaurant add post
+[10 02 2017 11:51:24.121] [DEBUG] - Inside restaurant add post
+[10 02 2017 11:51:28.086] [DEBUG] - Inside get
+[10 02 2017 11:52:06.092] [DEBUG] - Inside get
+[10 02 2017 11:54:30.838] [DEBUG] - Inside restaurant add post
+[10 02 2017 11:54:32.767] [DEBUG] - Inside restaurant add post
+[10 02 2017 11:54:46.698] [DEBUG] - Inside get
+[10 02 2017 11:54:54.825] [DEBUG] - Inside get
+[10 02 2017 11:57:35.913] [DEBUG] - Inside get
+[10 02 2017 11:57:53.863] [DEBUG] - Inside restaurant add post
+[10 02 2017 12:11:41.107] [DEBUG] - Inside get
+[10 02 2017 12:11:44.983] [DEBUG] - Inside restaurant delete post
+[10 02 2017 12:11:51.139] [DEBUG] - Inside get
+[10 02 2017 12:12:03.727] [DEBUG] - Inside restaurant add post
+[10 02 2017 12:12:10.276] [DEBUG] - Inside restaurant add post
+[10 02 2017 12:12:18.246] [DEBUG] - Inside get
+[10 02 2017 12:14:43.891] [DEBUG] - Inside get
+[10 02 2017 12:14:49.073] [DEBUG] - Inside restaurant delete post
+[10 02 2017 12:15:00.750] [DEBUG] - Inside get
+[10 02 2017 12:15:21.679] [DEBUG] - Inside get
+[10 02 2017 12:16:08.234] [DEBUG] - Inside restaurant add post
+[10 02 2017 12:16:45.285] [DEBUG] - Inside restaurant add post
+[10 02 2017 12:17:04.505] [DEBUG] - Inside get
+[10 02 2017 12:19:15.567] [DEBUG] - Inside get
+[10 02 2017 12:20:46.614] [DEBUG] - Inside restaurant delete post
+[10 02 2017 12:21:05.196] [DEBUG] - Inside get
+[10 02 2017 12:21:47.460] [DEBUG] - Inside restaurant add post
+[10 02 2017 12:21:52.884] [DEBUG] - Inside restaurant add post
+[10 02 2017 12:22:11.193] [DEBUG] - Inside get
+[10 02 2017 12:22:57.343] [DEBUG] - Inside get
+[10 02 2017 12:23:20.230] [DEBUG] - Inside get
+[10 02 2017 12:23:24.132] [DEBUG] - Inside restaurant delete post
+[10 02 2017 12:23:30.073] [DEBUG] - Inside get
+[10 02 2017 12:28:45.846] [DEBUG] - Inside get
+[10 02 2017 12:28:59.577] [DEBUG] - Inside restaurant add post
+[10 02 2017 12:29:00.944] [DEBUG] - Inside restaurant add post
+[10 02 2017 12:29:02.110] [DEBUG] - Inside restaurant add post
+[10 02 2017 12:29:03.335] [DEBUG] - Inside restaurant add post
+[10 02 2017 12:29:07.785] [DEBUG] - Inside get
+[10 02 2017 12:29:11.146] [DEBUG] - Inside restaurant delete post
+[10 02 2017 12:31:33.963] [DEBUG] - Inside restaurant add post
+[10 02 2017 12:31:34.988] [DEBUG] - Inside restaurant add post
+[10 02 2017 12:31:36.191] [DEBUG] - Inside restaurant add post
+[10 02 2017 12:31:41.921] [DEBUG] - Inside get
+[10 02 2017 12:31:44.104] [DEBUG] - Inside restaurant delete post
+[10 02 2017 12:32:32.143] [DEBUG] - Inside restaurant add post
+[10 02 2017 12:32:33.243] [DEBUG] - Inside restaurant add post
+[10 02 2017 12:32:34.283] [DEBUG] - Inside restaurant add post
+[10 02 2017 12:32:37.638] [DEBUG] - Inside get
+[10 02 2017 12:32:41.260] [DEBUG] - Inside restaurant delete post
+[10 02 2017 12:32:50.658] [DEBUG] - Inside get
+[10 02 2017 12:33:54.954] [DEBUG] - Inside restaurant add post
+[10 02 2017 12:33:55.810] [DEBUG] - Inside restaurant add post
+[10 02 2017 12:33:58.407] [DEBUG] - Inside get
+[10 02 2017 12:34:15.888] [DEBUG] - Inside restaurant add post
+[10 02 2017 12:34:30.024] [DEBUG] - Inside restaurant add post
+[10 02 2017 12:34:30.166] [DEBUG] - Inside restaurant add post
+[10 02 2017 12:34:30.312] [DEBUG] - Inside restaurant add post
+[10 02 2017 12:36:39.482] [DEBUG] - Inside get
+[10 02 2017 12:36:48.440] [DEBUG] - Inside restaurant add post
+[10 02 2017 12:36:50.548] [DEBUG] - Inside restaurant add post
+[10 02 2017 12:36:53.062] [DEBUG] - Inside get
+[10 02 2017 12:37:19.864] [DEBUG] - Mongoose is now disconnected..!
+[10 02 2017 12:37:40.447] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/Jojo
+[10 02 2017 12:38:53.070] [DEBUG] - Inside get
+[10 02 2017 12:39:08.308] [DEBUG] - Inside restaurant add post
+[10 02 2017 12:39:10.432] [DEBUG] - Inside restaurant add post
+[10 02 2017 12:39:12.646] [DEBUG] - Inside restaurant add post
+[10 02 2017 12:39:12.962] [DEBUG] - Inside restaurant add post
+[10 02 2017 12:39:18.642] [DEBUG] - Inside get
+[10 02 2017 12:39:30.633] [DEBUG] - Inside restaurant delete post
+[10 02 2017 12:39:42.048] [DEBUG] - Inside get
+[10 02 2017 12:43:34.636] [DEBUG] - Inside get
+[10 02 2017 12:43:41.208] [DEBUG] - Inside restaurant delete post
+[10 02 2017 12:44:17.322] [DEBUG] - Inside restaurant delete post
+[10 02 2017 12:46:26.817] [DEBUG] - Inside get
+[10 02 2017 12:46:31.481] [DEBUG] - Inside restaurant delete post
+[10 02 2017 12:48:31.090] [DEBUG] - Inside get
+[10 02 2017 12:48:33.283] [DEBUG] - Inside restaurant delete post
+[10 02 2017 12:49:31.689] [DEBUG] - Inside restaurant delete post
+[10 02 2017 12:52:41.745] [DEBUG] - Inside restaurant delete post
+[10 02 2017 12:55:21.053] [DEBUG] - Inside get
+[10 02 2017 12:55:24.564] [DEBUG] - Inside restaurant delete post
+[10 02 2017 12:55:32.328] [DEBUG] - Inside get
+[10 02 2017 12:58:33.862] [DEBUG] - Inside restaurant delete post
+[10 02 2017 12:58:39.421] [DEBUG] - Inside get
+[10 02 2017 12:58:41.754] [DEBUG] - Inside restaurant delete post

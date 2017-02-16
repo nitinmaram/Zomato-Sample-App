@@ -1,0 +1,21 @@
+[11 02 2017 06:18:58.007] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/Jojo
+[11 02 2017 06:23:15.860] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/Jojo
+[11 02 2017 06:32:09.214] [DEBUG] - Mongoose is now disconnected..!
+[11 02 2017 06:32:24.992] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/Jojo
+[11 02 2017 06:33:07.173] [DEBUG] - Inside get
+[11 02 2017 06:34:17.540] [DEBUG] - Inside restaurant add post
+[11 02 2017 06:34:18.910] [DEBUG] - Inside restaurant add post
+[11 02 2017 06:34:20.567] [DEBUG] - Inside restaurant add post
+[11 02 2017 06:34:22.125] [DEBUG] - Inside restaurant add post
+[11 02 2017 06:34:24.167] [DEBUG] - Inside restaurant add post
+[11 02 2017 06:34:25.296] [DEBUG] - Inside restaurant add post
+[11 02 2017 06:34:31.105] [DEBUG] - Inside get
+[11 02 2017 06:34:49.912] [DEBUG] - Inside restaurant delete post
+[11 02 2017 06:34:53.783] [DEBUG] - Inside restaurant delete post
+[11 02 2017 06:35:01.891] [DEBUG] - Inside get
+[11 02 2017 06:35:05.073] [DEBUG] - Inside restaurant delete post
+[11 02 2017 06:35:09.587] [DEBUG] - Inside get
+[11 02 2017 06:35:23.732] [DEBUG] - Inside restaurant delete post
+[11 02 2017 06:35:44.086] [DEBUG] - Inside get
+[11 02 2017 06:36:31.167] [DEBUG] - Inside get
+[11 02 2017 07:16:26.045] [DEBUG] - Inside get
