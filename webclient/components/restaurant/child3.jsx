@@ -104,9 +104,11 @@ update1() {
     <Card.Meta className="cus">{this.props.cuisines}</Card.Meta>
     <Card.Description className="desc">{this.props.location}</Card.Description>
     {comm}
-    <br/>
-    <a>
-    <h5>{this.props.distance} m away</h5>
+    <h5 style={{marginTop:'-5px'}}>{this.props.distance} m away</h5>
+    <a href={'https://www.google.com/maps/dir/'+this.props.lat+','+this.props.lon+'/'+this.props.lat1+','+this.props.lon1}
+    target="_blank">
+    <Icon name='location arrow'/>
+    Navigate
     </a>
   </Card.Content>
   <Card.Content extra>

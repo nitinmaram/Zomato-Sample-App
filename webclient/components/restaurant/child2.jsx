@@ -31,6 +31,10 @@ class DisplayComponent extends React.Component {
             ratings={objs.restaurant.user_rating.aggregate_rating}
             comment=""
             distance={geolib.getDistance({latitude: lat,longitude: lon},loc)}
+            lat={lat}
+            lon={lon}
+            lat1={loc.latitude}
+            lon1={loc.longitude}
             />
           // {/* </Grid.Column> */}
           );

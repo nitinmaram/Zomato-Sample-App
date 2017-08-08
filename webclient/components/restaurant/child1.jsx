@@ -26,11 +26,14 @@ class Child1Component extends React.Component {
         this.props.handle(this.state.rcity, this.state.cusine);
     }
     f1() {
-      navigator.geolocation.getCurrentPosition(function (p){
-  this.props.locHandle(p.coords.latitude,p.coords.longitude);
-}.bind(this));
-
+      navigator.geolocation.getCurrentPosition(this.success.bind(this),this.options.bind(this));
     }
+    success (p){
+this.props.locHandle(p.coords.latitude,p.coords.longitude);
+}
+options(){
+         enableHighAccuracy: true
+}
     render() {
         return (
             <Container textAlign="center">
