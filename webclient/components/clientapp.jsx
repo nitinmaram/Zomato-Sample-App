@@ -6,7 +6,9 @@ class MainComponent extends React.Component {
     constructor() {
         super();
         this.state = {
-            jsonarray: []
+            jsonarray: [],
+            lat: 0,
+            lon: 0
         };
     }
     render()
@@ -14,7 +16,7 @@ class MainComponent extends React.Component {
         return (
             <div >
                 <Child1Component.Child1 handle={this.getResturantFromQuery.bind(this)} locHandle={this.getResturantByLoc.bind(this)}/>
-                <Child1Component.Child2 name={this.state.jsonarray}/>
+                <Child1Component.Child2 name={this.state.jsonarray} lat={this.state.lat} lon={this.state.lon}/>
             </div>
         );
     }
@@ -39,7 +41,10 @@ class MainComponent extends React.Component {
     }
     getResturantByLoc(lat,lon)
     {
-    console.log(lon);
+      this.setState({
+        lat: lat,
+        lon: lon
+      });
         $.ajax({
 
             url: "https://developers.zomato.com/api/v2.1/search?lat="+lat+"&lon="+lon,

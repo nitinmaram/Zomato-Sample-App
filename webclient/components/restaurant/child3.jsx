@@ -104,11 +104,12 @@ update1() {
     <Card.Meta className="cus">{this.props.cuisines}</Card.Meta>
     <Card.Description className="desc">{this.props.location}</Card.Description>
     {comm}
+    <br/>
+    <a>
+    <h5>{this.props.distance} m away</h5>
+    </a>
   </Card.Content>
   <Card.Content extra>
-  <a>
-  Distance:
-  </a>
     <a>
       <Icon name='user' className="rate"/>
       {this.props.ratings}/5 ratings

@@ -12,17 +12,14 @@ import Cards from './child3.jsx'
 class DisplayComponent extends React.Component {
     constructor() {
         super();
-        this.state={
-          lat: 0,
-          lon: 0
-        };
+
       }
-
-
       render()
-      {  let jsarray=this.props.name.map(function(objs){
+      {
+        let lat=this.props.lat
+        let lon=this.props.lon
+        let jsarray=this.props.name.map(function(objs){
           var loc = {latitude: objs.restaurant.location.latitude, longitude: objs.restaurant.location.longitude}
-          // console.log(geolib.getDistance({latitude: this.state.lat,longitude: this.state.lon},loc))
           return (
             // <Grid.Column>
             <Cards className="card"
@@ -33,7 +30,7 @@ class DisplayComponent extends React.Component {
             cuisines={objs.restaurant.cuisines}
             ratings={objs.restaurant.user_rating.aggregate_rating}
             comment=""
-
+            distance={geolib.getDistance({latitude: lat,longitude: lon},loc)}
             />
           // {/* </Grid.Column> */}
           );

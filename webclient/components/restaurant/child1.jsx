@@ -11,7 +11,7 @@ class Child1Component extends React.Component {
         super();
         this.state = {
             cusine: "",
-            rcity: "",
+            rcity: ""
         }
     }
     changecity(e)
@@ -28,12 +28,10 @@ class Child1Component extends React.Component {
     f1() {
       navigator.geolocation.getCurrentPosition(function (p){
   this.props.locHandle(p.coords.latitude,p.coords.longitude);
-
 }.bind(this));
 
     }
     render() {
-
         return (
             <Container textAlign="center">
                 <Input focus placeholder='Search City' ref="rcity"
