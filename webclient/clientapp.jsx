@@ -21,7 +21,7 @@ render:function(){
 ReactDOM.render(
   <Router history={browserHistory}>
     <Route path="/" component={Login}/>
-    <Route  component={MainComp}>               
+    <Route  component={MainComp}>
                 <Route path="/home" component={Home}/>
                 <Route path="/about" component={About}/>
                 <Route path="/gmailbox" component={GmailBox}/>

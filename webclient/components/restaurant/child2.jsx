@@ -6,25 +6,34 @@ import {Grid} from 'semantic-ui-react';
 // import {Input} from 'semantic-ui-react'
 // import {Divider} from 'semantic-ui-react'
 // import {Card} from 'semantic-ui-react'
+var geolib = require('geolib');
 import Cards from './child3.jsx'
 
 class DisplayComponent extends React.Component {
     constructor() {
         super();
+        this.state={
+          lat: 0,
+          lon: 0
+        };
       }
+
+
       render()
-      {
-        let jsarray=this.props.name.map(function(objs){
+      {  let jsarray=this.props.name.map(function(objs){
+          var loc = {latitude: objs.restaurant.location.latitude, longitude: objs.restaurant.location.longitude}
+          // console.log(geolib.getDistance({latitude: this.state.lat,longitude: this.state.lon},loc))
           return (
             // <Grid.Column>
             <Cards className="card"
             id={objs.restaurant.R.res_id}
-             name={objs.restaurant.name}
+            name={objs.restaurant.name}
             image={objs.restaurant.featured_image}
             location={objs.restaurant.location.address}
             cuisines={objs.restaurant.cuisines}
             ratings={objs.restaurant.user_rating.aggregate_rating}
             comment=""
+
             />
           // {/* </Grid.Column> */}
           );

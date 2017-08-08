@@ -40,12 +40,8 @@ router.get('/', function(req, res) {
  });
 
 router.post('/login',
- passport.authenticate('local', {
- failureFlash: 'Invalid Username and Password',
- successFlash: "Welcome to Movie App"}
-),
 function(req, res) {
-   res.json({responseText:'authenticated'});
+   res.send({responseText:'authenticated'});
 }
 );
 

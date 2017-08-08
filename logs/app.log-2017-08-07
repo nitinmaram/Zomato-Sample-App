@@ -1,0 +1,60 @@
+[07 08 2017 16:57:27.408] [DEBUG] - Mongoose is now disconnected..!
+[07 08 2017 16:57:27.432] [ERROR] - Error in Mongoose connection:  { MongoError: failed to connect to server [127.0.0.1:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]
+    at Pool.<anonymous> (D:\workspace\Zomato-Sample-App\node_modules\mongoose\node_modules\mongodb-core\lib\topologies\server.js:328:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (D:\workspace\Zomato-Sample-App\node_modules\mongoose\node_modules\mongodb-core\lib\connection\pool.js:280:12)
+    at Connection.g (events.js:292:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (D:\workspace\Zomato-Sample-App\node_modules\mongoose\node_modules\mongodb-core\lib\connection\connection.js:177:49)
+    at Socket.g (events.js:292:16)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1277:8)
+    at _combinedTickCallback (internal/process/next_tick.js:80:11)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+  name: 'MongoError',
+  message: 'failed to connect to server [127.0.0.1:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]' }
+[07 08 2017 17:11:36.844] [DEBUG] - Inside get
+[07 08 2017 19:32:52.512] [INFO] - Mongoose disconnected on process termination
+[07 08 2017 21:24:52.651] [DEBUG] - Mongoose is now disconnected..!
+[07 08 2017 21:24:52.651] [ERROR] - Error in Mongoose connection:  { MongoError: failed to connect to server [127.0.0.1:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]
+    at Pool.<anonymous> (D:\workspace\Zomato-Sample-App\node_modules\mongoose\node_modules\mongodb-core\lib\topologies\server.js:328:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (D:\workspace\Zomato-Sample-App\node_modules\mongoose\node_modules\mongodb-core\lib\connection\pool.js:280:12)
+    at Connection.g (events.js:292:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (D:\workspace\Zomato-Sample-App\node_modules\mongoose\node_modules\mongodb-core\lib\connection\connection.js:177:49)
+    at Socket.g (events.js:292:16)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1277:8)
+    at _combinedTickCallback (internal/process/next_tick.js:80:11)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+  name: 'MongoError',
+  message: 'failed to connect to server [127.0.0.1:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]' }
+[07 08 2017 21:26:52.658] [DEBUG] - Inside get
+[07 08 2017 21:28:52.679] [DEBUG] - Inside get
+[07 08 2017 21:30:52.681] [DEBUG] - Inside get
+[07 08 2017 21:37:00.708] [INFO] - Mongoose disconnected on process termination
+[07 08 2017 21:38:00.700] [DEBUG] - Mongoose is now disconnected..!
+[07 08 2017 21:38:01.022] [ERROR] - Error in Mongoose connection:  { MongoError: failed to connect to server [127.0.0.1:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]
+    at Pool.<anonymous> (D:\workspace\Zomato-Sample-App\node_modules\mongoose\node_modules\mongodb-core\lib\topologies\server.js:328:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (D:\workspace\Zomato-Sample-App\node_modules\mongoose\node_modules\mongodb-core\lib\connection\pool.js:280:12)
+    at Connection.g (events.js:292:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (D:\workspace\Zomato-Sample-App\node_modules\mongoose\node_modules\mongodb-core\lib\connection\connection.js:177:49)
+    at Socket.g (events.js:292:16)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1277:8)
+    at _combinedTickCallback (internal/process/next_tick.js:80:11)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+  name: 'MongoError',
+  message: 'failed to connect to server [127.0.0.1:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]' }

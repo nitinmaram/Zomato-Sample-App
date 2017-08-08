@@ -11,7 +11,7 @@ class Child1Component extends React.Component {
         super();
         this.state = {
             cusine: "",
-            rcity: ""
+            rcity: "",
         }
     }
     changecity(e)
@@ -25,15 +25,15 @@ class Child1Component extends React.Component {
     f() {
         this.props.handle(this.state.rcity, this.state.cusine);
     }
-    // change()
-    // {
-    // 	var a=this.refs.rid.x;
-    // 	var b=this.refs.cusine.x;
-    // 	this.setState({cusine:a,rid:b});
-    // 	this.props.handle(a,b);
-    // }
+    f1() {
+      navigator.geolocation.getCurrentPosition(function (p){
+  this.props.locHandle(p.coords.latitude,p.coords.longitude);
 
+}.bind(this));
+
+    }
     render() {
+
         return (
             <Container textAlign="center">
                 <Input focus placeholder='Search City' ref="rcity"
@@ -41,6 +41,7 @@ class Child1Component extends React.Component {
                 <Input focus placeholder='Search Cusines...' ref="cusine"
                 onChange={this.changecusine.bind(this)}/>
                 <Button primary onClick={this.f.bind(this)}>Search</Button>
+                <Button primary onClick={this.f1.bind(this)}>Near By Restaurants</Button>
                 <Divider/>
             </Container>
         );

@@ -3,11 +3,12 @@ import {Button} from 'semantic-ui-react'
 import { Card, Icon, Image, Input} from 'semantic-ui-react'
 class Cards extends React.Component {
     constructor() {
-      
+
         super();
         this.sendData = this.sendData.bind(this);
         this.state={addButton:'Add',updateButton:'Update'}
       }
+
   sendData(){
    let resdata = {
       _id : this.props.id,
@@ -20,7 +21,7 @@ class Cards extends React.Component {
    }
    console.log(JSON.stringify(resdata,undefined,2));
    $.ajax({
-     url : "http://localhost:8085/restaurants/add",
+     url : "http://localhost:8080/restaurants/add",
      type : 'POST',
      data : resdata,
      success: function(data) {
@@ -36,7 +37,7 @@ class Cards extends React.Component {
     // f = this.props.remove;
    console.log(this.props.location);
    $.ajax({
-     url : "http://localhost:8085/restaurants/delete",
+     url : "http://localhost:8080/restaurants/delete",
      type : 'DELETE',
      data :  {resId : this.props.id},
      success: function(data) {
@@ -57,7 +58,7 @@ updateComments(evt){
 update1() {
   // let f = this.props.func;
    $.ajax({
-     url:'http://localhost:8085/restaurants/update/'+this.props.id,
+     url:'http://localhost:8080/restaurants/update/'+this.props.id,
      type: 'patch',
      data:{"comments": this.state.comments},
      success: function(data){
@@ -75,6 +76,7 @@ update1() {
  }
       render()
       {
+
         var but = "";
         var comm="";
         if(this.props.fav === "fav") {
@@ -87,7 +89,7 @@ update1() {
              </div>
             );
           comm=(<div><Card.Description className="com">comment:{this.props.comment}</Card.Description></div>);
-          
+
         }
         else {
           but = (
@@ -104,6 +106,9 @@ update1() {
     {comm}
   </Card.Content>
   <Card.Content extra>
+  <a>
+  Distance:
+  </a>
     <a>
       <Icon name='user' className="rate"/>
       {this.props.ratings}/5 ratings
@@ -119,6 +124,6 @@ update1() {
     Cards.propTypes = {
       id: React.PropTypes.object,
       name: React.PropTypes.object,
- 
+
 }
     module.exports=Cards;
