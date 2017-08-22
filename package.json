@@ -6,7 +6,7 @@
     "wpbuild": "node ./node_modules/webpack/bin/webpack.js",
     "gbuild": "gulp lint",
     "clean": "gulp clean",
-    "start": "nodemon bin/www"
+    "start": "nodemon www"
   },
   "repository": {
     "type": "git",
@@ -51,6 +51,7 @@
     "neo4j-driver": "^1.0.5",
     "passport": "^0.3.2",
     "passport-local": "^1.0.0",
+    "pm2": "^2.6.1",
     "rc-pagination": "^1.6.1",
     "react": "^15.3.2",
     "react-dom": "^15.3.2",

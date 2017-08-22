@@ -17,7 +17,7 @@ class MyFavourites extends React.Component{
 
   getFavourites() {
     $.ajax({
-			   url:"http://localhost:8080/restaurants/",
+			   url:"/restaurants/",
 			 type:'GET',
 			 beforeSend: function (request)
 									 {
@@ -62,7 +62,7 @@ class MyFavourites extends React.Component{
       }
       this.setState({objArray: favArray});
   }
-   
+
 
   componentDidMount() {
     this.getFavourites();
@@ -78,11 +78,12 @@ class MyFavourites extends React.Component{
 		let cards = values.map(function(item) {
 				return (
 			<div>
-					<MyCard id={item._id} image={item.imageurl} 
-					name={item.resName} cuisines={item.resCuisines} location={item.resAddress} 
-					ratings={item.resRating} comment={item.comments} fav = "fav" remove={methodRef}
+					<MyCard id={item._id} image={item.imageurl}
+					name={item.resName} cuisines={item.resCuisines} location={item.resAddress}
+					ratings={item.resRating} comment={item.comments} distance={item.distance}
+          fav = "fav" remove={methodRef}
 					update={updateRef}/>
-							
+
 			</div>
 			);
 		});

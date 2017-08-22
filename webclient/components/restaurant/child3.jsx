@@ -17,11 +17,12 @@ class Cards extends React.Component {
      resCuisines : this.props.cuisines,
      resAddress : this.props.location,
      resRating : this.props.ratings,
-     comments : this.props.comment
+     comments : this.props.comment,
+     distance : this.props.distance
    }
    console.log(JSON.stringify(resdata,undefined,2));
    $.ajax({
-     url : "http://localhost:8080/restaurants/add",
+     url : "/restaurants/add",
      type : 'POST',
      data : resdata,
      success: function(data) {
@@ -37,7 +38,7 @@ class Cards extends React.Component {
     // f = this.props.remove;
    console.log(this.props.location);
    $.ajax({
-     url : "http://localhost:8080/restaurants/delete",
+     url : "/restaurants/delete",
      type : 'DELETE',
      data :  {resId : this.props.id},
      success: function(data) {
@@ -58,7 +59,7 @@ updateComments(evt){
 update1() {
   // let f = this.props.func;
    $.ajax({
-     url:'http://localhost:8080/restaurants/update/'+this.props.id,
+     url:'/restaurants/update/'+this.props.id,
      type: 'patch',
      data:{"comments": this.state.comments},
      success: function(data){

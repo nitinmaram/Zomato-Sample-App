@@ -1,0 +1,59 @@
+[19 08 2017 12:53:32.682] [DEBUG] - Mongoose is now disconnected..!
+[19 08 2017 12:53:32.698] [ERROR] - Error in Mongoose connection:  { MongoError: failed to connect to server [127.0.0.1:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]
+    at Pool.<anonymous> (D:\workspace\Zomato-Sample-App\node_modules\mongoose\node_modules\mongodb-core\lib\topologies\server.js:328:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (D:\workspace\Zomato-Sample-App\node_modules\mongoose\node_modules\mongodb-core\lib\connection\pool.js:280:12)
+    at Connection.g (events.js:292:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (D:\workspace\Zomato-Sample-App\node_modules\mongoose\node_modules\mongodb-core\lib\connection\connection.js:177:49)
+    at Socket.g (events.js:292:16)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1277:8)
+    at _combinedTickCallback (internal/process/next_tick.js:80:11)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+  name: 'MongoError',
+  message: 'failed to connect to server [127.0.0.1:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]' }
+[19 08 2017 12:56:14.263] [INFO] - Mongoose disconnected on process termination
+[19 08 2017 13:34:45.473] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/Jojo
+[19 08 2017 13:45:05.737] [DEBUG] - Inside restaurant add post
+[19 08 2017 13:45:13.687] [DEBUG] - Inside get
+[19 08 2017 18:59:50.842] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/Jojo
+[19 08 2017 19:05:35.291] [DEBUG] - Inside get
+[19 08 2017 19:06:11.436] [DEBUG] - Inside get
+[19 08 2017 19:06:17.178] [DEBUG] - Inside restaurant delete post
+[19 08 2017 19:07:51.112] [DEBUG] - Inside restaurant add post
+[19 08 2017 19:08:04.528] [DEBUG] - Inside get
+[19 08 2017 19:09:24.124] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/Jojo
+[19 08 2017 19:09:39.276] [DEBUG] - Inside restaurant delete post
+[19 08 2017 19:09:58.696] [DEBUG] - Inside restaurant add post
+[19 08 2017 19:10:06.362] [DEBUG] - Inside get
+[19 08 2017 19:10:31.634] [DEBUG] - Inside restaurant add post
+[19 08 2017 19:10:38.814] [DEBUG] - Inside restaurant add post
+[19 08 2017 19:10:42.027] [DEBUG] - Inside get
+[19 08 2017 19:10:50.963] [DEBUG] - Inside restaurant update post
+[19 08 2017 19:10:51.034] [DEBUG] - Inside restaurant update post
+[19 08 2017 19:10:51.056] [DEBUG] - Inside restaurant update post
+[19 08 2017 19:10:51.073] [DEBUG] - Inside restaurant update post
+[19 08 2017 19:10:51.140] [DEBUG] - Inside restaurant update post
+[19 08 2017 19:10:51.318] [DEBUG] - Inside restaurant update post
+[19 08 2017 19:10:51.325] [DEBUG] - Inside restaurant update post
+[19 08 2017 19:10:51.365] [DEBUG] - Inside restaurant update post
+[19 08 2017 19:10:51.446] [DEBUG] - Inside restaurant update post
+[19 08 2017 19:10:53.419] [DEBUG] - Inside restaurant update post
+[19 08 2017 19:10:53.583] [DEBUG] - Inside restaurant update post
+[19 08 2017 19:10:53.803] [DEBUG] - Inside restaurant update post
+[19 08 2017 19:10:53.890] [DEBUG] - Inside restaurant update post
+[19 08 2017 19:10:54.060] [DEBUG] - Inside restaurant update post
+[19 08 2017 19:10:54.171] [DEBUG] - Inside restaurant update post
+[19 08 2017 19:10:54.319] [DEBUG] - Inside restaurant update post
+[19 08 2017 19:10:54.454] [DEBUG] - Inside restaurant update post
+[19 08 2017 19:10:54.598] [DEBUG] - Inside restaurant update post
+[19 08 2017 19:30:12.760] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/Jojo
+[19 08 2017 19:31:19.581] [DEBUG] - Inside restaurant add post
+[19 08 2017 19:31:26.549] [DEBUG] - Inside get
+[19 08 2017 19:31:37.953] [DEBUG] - Inside restaurant delete post
+[19 08 2017 19:31:39.200] [DEBUG] - Inside restaurant delete post
+[19 08 2017 19:31:40.505] [DEBUG] - Inside restaurant delete post

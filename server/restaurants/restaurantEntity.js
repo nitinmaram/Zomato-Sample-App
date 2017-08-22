@@ -3,7 +3,7 @@ const mongoose = require('mongoose');
 mongoose.Promise = global.Promise;
 
 let schema = new mongoose.Schema({
- _id: String,	
+ _id: String,
  imageurl: String,
  resName: {
    type:String
@@ -11,7 +11,8 @@ let schema = new mongoose.Schema({
  resCuisines: String,
  resAddress: {type:String},
  resRating: String,
- comments: String
+ comments: String,
+ distance: Number
 
 
 });

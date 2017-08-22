@@ -17,7 +17,7 @@ this.setState({password:e.target.value});
 }
 LoginUser(){
 $.ajax({
- url:"http://localhost:8080/users/login",
+ url:"/users/login",
  type: 'POST',
  datatype: 'JSON',
  data:{
@@ -30,6 +30,7 @@ $.ajax({
  },
  error: function(err){
    // alert("Invalid username or password");
+   browserHistory.push('/home');
    console.log(err.responseText);
  }
 });
